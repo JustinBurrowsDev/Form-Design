@@ -13,3 +13,5 @@ Doing research on platforms like Google,YouTube, MDN docs, stackoverflow, GitHub
 * HTML
 * CSS Layout
 * Git Basics
+
+![Responsive Form](form-rwd-example.gif)
