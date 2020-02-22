@@ -2,7 +2,7 @@
 
 # Challenges I Faced? 
 
-I would to understand CSS grid 
+I lack understanding CSS grid and it capabilites
 
 # How Did I Over Come Those Challenges? 
 
