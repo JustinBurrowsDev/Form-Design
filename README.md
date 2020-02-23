@@ -2,7 +2,7 @@
 
 ## Challenges I Faced? 
 
-I lack understanding on CSS grid and it capabilites. As well as how to take input from a user on a form. 
+I lack understanding on CSS grid and it capabilites. As well as how to set up my html to take input from a user on a form. 
 
 ## How Did I Over Come Those Challenges? 
 
